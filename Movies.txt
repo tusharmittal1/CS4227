@@ -1,0 +1,2 @@
+MovieID,MovieName,MovieGenre,MovieListingID,Seats
+1,Halloween,Horror,1,0-0-0-0-0-0-0-0-0-0-0-0-0-0-0
