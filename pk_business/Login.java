@@ -11,6 +11,7 @@ import pk_users.Manager;
 import pk_users.User;
 public class Login{
 	private UIController ui = new UIController();
+	random shit = new shit;
 	private User currentUser;
 	
 	public int checkLogin( String in_Username , String in_Password ){
